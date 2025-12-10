@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv
+cat /etc/passwd /etc/hosts
